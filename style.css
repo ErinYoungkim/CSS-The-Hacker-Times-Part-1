@@ -6,3 +6,7 @@
     box-shadow: 10px 4px 4px #ddd;
     padding: 2em 1em;    
 }
+
+header h1 {
+text-align: center;
+}
