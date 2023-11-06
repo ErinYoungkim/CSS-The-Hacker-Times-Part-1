@@ -73,3 +73,23 @@ main p {
     width: 40%;
     margin-inline: 2em;
 }
+
+.bonus-articles {
+    display: grid;
+    grid-template-columns: 1fr 1fr 1fr;
+    gap: 10px;
+}
+
+.bonus-articles {
+    display: grid;
+    grid-template-columns: 1fr 1fr 1fr;
+    gap: 10px; 
+}
+
+.grid-item {
+    width: 100%;
+}
+
+.grid-item img {
+    width: 100%;
+}
