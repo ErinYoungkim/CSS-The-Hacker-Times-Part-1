@@ -93,3 +93,12 @@ main p {
 .grid-item img {
     width: 100%;
 }
+
+footer {
+    text-decoration: none;
+    text-align: center;
+}
+
+footer > h2 {
+    font-family: 'Abril Fatface';
+}
